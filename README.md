@@ -15,7 +15,7 @@ Simple Blank - HTML, to render the site
 
 ## Launch
 
-We have included a html page type any number value into the "pop up" prompt you will see on the [html page](https://github.com/CustomHaven/convert-kelvin-temperature.git)
+We have included a html page type any number value into the "pop up" prompt you will see on the [html page](https://customhaven.github.io/convert-kelvin-temperature/)
 
 ---
 
